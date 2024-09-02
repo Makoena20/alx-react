@@ -1,0 +1,22 @@
+/* task_3/modules/body/body.css */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: #0056b3;
+}
+
+p {
+  margin-top: 10px;
+}
+

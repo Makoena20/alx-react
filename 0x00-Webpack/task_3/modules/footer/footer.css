@@ -1,0 +1,13 @@
+/* task_3/modules/footer/footer.css */
+footer {
+  background-color: #f5f5f5;
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid #e5e5e5;
+}
+
+footer p {
+  margin: 0;
+  color: #777;
+}
+
