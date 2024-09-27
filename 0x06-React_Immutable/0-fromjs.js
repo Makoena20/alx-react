@@ -1,5 +1,5 @@
 // Importing the Immutable.js library
-import { fromJS } from 'immutable';
+const { fromJS } = require('immutable');
 
 // Function to convert an object to an Immutable Map
 function getImmutableObject(object) {
@@ -7,5 +7,5 @@ function getImmutableObject(object) {
 }
 
 // Exporting the function
-export { getImmutableObject };
+module.exports = getImmutableObject;
 
